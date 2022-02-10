@@ -1,0 +1,19 @@
+.containerFull {
+  background-color: green;
+  width: 800px;
+  height: 800px;
+  position: absolute;
+}
+.container {
+  background-color: red;
+  width: 400px;
+  height: 400px;
+  position: relative;
+}
+
+.main {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  position: absolute;
+}
